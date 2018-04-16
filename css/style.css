@@ -18,7 +18,7 @@ body {
 /*Background */
 
 .bg-primary {
-  background-color: #2DB6C8;
+  background-color: rgba(172, 91, 91, 0.6) 0% 0%;
 }
 
 .text-vertical-center {
@@ -42,7 +42,7 @@ button {
 }
 
 .btn-dark {
-  color: #2DB6C8;
+  color: rgba(172, 91, 91, 0.6) 0%;
   background-color: rgba(0, 0, 0, 0.4);
   font-size: 1.5em;
 }
@@ -314,7 +314,7 @@ td {
 /*Progress bar*/
 
 .progress-bar {
-  background-color: #2DB6C8;
+  background-color: rgba(172, 91, 91, 0.6) 0%;
   line-height: 25px;
 }
 
@@ -328,11 +328,11 @@ td {
 /*Favicons, text primary makes the text purple, fa-fw targets the icon background*/
 
 .text-primary {
-  color: #2DB6C8;
+  color: rgba(172, 91, 91, 0.6) 0%;
 }
 
 .fa-fw {
-  color: #2DB6C8;
+  color: rgba(172, 91, 91, 0.6) 0%;
 }
 
 
@@ -342,10 +342,10 @@ footer {
   padding: 100px 0;
 }
 
-#particles-js{
+/* #particles-js{
   background-color: #0b0b57;
   height: 400px;
-}
+} */
 
 /* =================== */
 /*    Media Queries    */
